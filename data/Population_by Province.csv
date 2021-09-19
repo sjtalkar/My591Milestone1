@@ -1,0 +1,343 @@
+"By scenarios(1)","By province(1)","By the structure of population and dependency ratio(1)",2020,2021,2022
+"Medium","Whole country","Total population(person)",51780579,51821669,51846339
+"Medium","Whole country","Male(person)",25945737,25961532,25967841
+"Medium","Whole country","Female(person)",25834842,25860137,25878498
+"Medium","Whole country","Sex ratio(per 100 females)",100.4,100.4,100.3
+"Medium","Whole country","Population increase rate",0.14,0.08,0.05
+"Medium","Whole country","Population percent distributio(%)",100,100,100
+"Medium","Whole country","0-14 years old(person)",6296838,6151690,5984826
+"Medium","Whole country","15-64 years old(person)",37358309,37132956,36886870
+"Medium","Whole country","65 years old and over(person)",8125432,8537023,8974643
+"Medium","Whole country","Percent distributio(%): 0-14 years old",12.2,11.9,11.5
+"Medium","Whole country","Percent distribution(%): 15-64 years old",72.1,71.7,71.1
+"Medium","Whole country","Percent distribution(%): 65 years old and over",15.7,16.5,17.3
+"Medium","Whole country","Dependency ratio(Total)",38.6,39.6,40.6
+"Medium","Whole country","Youth support payments",16.9,16.6,16.2
+"Medium","Whole country","Old child support",21.7,23,24.3
+"Medium","Whole country","Aging index",129,138.8,150
+"Medium","Whole country","Median age",43.7,44.3,44.9
+"Medium","Whole country","Median age-Male",42.3,42.9,43.5
+"Medium","Whole country","Median age-Female",45.2,45.8,46.4
+"Medium","Seoul","Total population(person)",9601693,9543142,9487764
+"Medium","Seoul","Male(person)",4660983,4625047,4591453
+"Medium","Seoul","Female(person)",4940710,4918095,4896311
+"Medium","Seoul","Sex ratio(per 100 females)",94.3,94,93.8
+"Medium","Seoul","Population increase rate",-0.63,-0.61,-0.58
+"Medium","Seoul","Population percent distributio(%)",18.5,18.4,18.3
+"Medium","Seoul","0-14 years old(person)",973868,936146,897784
+"Medium","Seoul","15-64 years old(person)",7148220,7058479,6969435
+"Medium","Seoul","65 years old and over(person)",1479605,1548517,1620545
+"Medium","Seoul","Percent distributio(%): 0-14 years old",10.1,9.8,9.5
+"Medium","Seoul","Percent distribution(%): 15-64 years old",74.4,74,73.5
+"Medium","Seoul","Percent distribution(%): 65 years old and over",15.4,16.2,17.1
+"Medium","Seoul","Dependency ratio(Total)",34.3,35.2,36.1
+"Medium","Seoul","Youth support payments",13.6,13.3,12.9
+"Medium","Seoul","Old child support",20.7,21.9,23.3
+"Medium","Seoul","Aging index",151.9,165.4,180.5
+"Medium","Seoul","Median age",42.9,43.4,43.9
+"Medium","Seoul","Median age-Male",42.1,42.6,43.1
+"Medium","Seoul","Median age-Female",43.8,44.2,44.7
+"Medium","Busan","Total population(person)",3343528,3313445,3283324
+"Medium","Busan","Male(person)",1639369,1622652,1605967
+"Medium","Busan","Female(person)",1704159,1690793,1677357
+"Medium","Busan","Sex ratio(per 100 females)",96.2,96,95.7
+"Medium","Busan","Population increase rate",-0.87,-0.9,-0.91
+"Medium","Busan","Population percent distributio(%)",6.5,6.4,6.3
+"Medium","Busan","0-14 years old(person)",356676,345996,334342
+"Medium","Busan","15-64 years old(person)",2362011,2312271,2262815
+"Medium","Busan","65 years old and over(person)",624841,655178,686167
+"Medium","Busan","Percent distributio(%): 0-14 years old",10.7,10.4,10.2
+"Medium","Busan","Percent distribution(%): 15-64 years old",70.6,69.8,68.9
+"Medium","Busan","Percent distribution(%): 65 years old and over",18.7,19.8,20.9
+"Medium","Busan","Dependency ratio(Total)",41.6,43.3,45.1
+"Medium","Busan","Youth support payments",15.1,15,14.8
+"Medium","Busan","Old child support",26.5,28.3,30.3
+"Medium","Busan","Aging index",175.2,189.4,205.2
+"Medium","Busan","Median age",46.3,47,47.6
+"Medium","Busan","Median age-Male",44.4,45.1,45.7
+"Medium","Busan","Median age-Female",48,48.7,49.4
+"Medium","Daegu","Total population(person)",2419246,2405064,2390487
+"Medium","Daegu","Male(person)",1197242,1188864,1180360
+"Medium","Daegu","Female(person)",1222004,1216200,1210127
+"Medium","Daegu","Sex ratio(per 100 females)",98,97.8,97.5
+"Medium","Daegu","Population increase rate",-0.54,-0.59,-0.61
+"Medium","Daegu","Population percent distributio(%)",4.7,4.6,4.6
+"Medium","Daegu","0-14 years old(person)",287610,279578,270812
+"Medium","Daegu","15-64 years old(person)",1743667,1718301,1692414
+"Medium","Daegu","65 years old and over(person)",387969,407185,427261
+"Medium","Daegu","Percent distributio(%): 0-14 years old",11.9,11.6,11.3
+"Medium","Daegu","Percent distribution(%): 15-64 years old",72.1,71.4,70.8
+"Medium","Daegu","Percent distribution(%): 65 years old and over",16,16.9,17.9
+"Medium","Daegu","Dependency ratio(Total)",38.7,40,41.2
+"Medium","Daegu","Youth support payments",16.5,16.3,16
+"Medium","Daegu","Old child support",22.3,23.7,25.2
+"Medium","Daegu","Aging index",134.9,145.6,157.8
+"Medium","Daegu","Median age",44.8,45.5,46.1
+"Medium","Daegu","Median age-Male",43,43.6,44.2
+"Medium","Daegu","Median age-Female",46.5,47.2,47.9
+"Medium","Incheon","Total population(person)",2951030,2956924,2962325
+"Medium","Incheon","Male(person)",1484678,1487319,1489621
+"Medium","Incheon","Female(person)",1466352,1469605,1472704
+"Medium","Incheon","Sex ratio(per 100 females)",101.2,101.2,101.1
+"Medium","Incheon","Population increase rate",0.24,0.2,0.18
+"Medium","Incheon","Population percent distributio(%)",5.7,5.7,5.7
+"Medium","Incheon","0-14 years old(person)",366674,357066,346270
+"Medium","Incheon","15-64 years old(person)",2187592,2177783,2166718
+"Medium","Incheon","65 years old and over(person)",396764,422075,449337
+"Medium","Incheon","Percent distributio(%): 0-14 years old",12.4,12.1,11.7
+"Medium","Incheon","Percent distribution(%): 15-64 years old",74.1,73.7,73.1
+"Medium","Incheon","Percent distribution(%): 65 years old and over",13.4,14.3,15.2
+"Medium","Incheon","Dependency ratio(Total)",34.9,35.8,36.7
+"Medium","Incheon","Youth support payments",16.8,16.4,16
+"Medium","Incheon","Old child support",18.1,19.4,20.7
+"Medium","Incheon","Aging index",108.2,118.2,129.8
+"Medium","Incheon","Median age",42.9,43.6,44.2
+"Medium","Incheon","Median age-Male",41.8,42.4,43
+"Medium","Incheon","Median age-Female",44.2,44.9,45.5
+"Medium","Gwangju","Total population(person)",1487675,1480750,1473331
+"Medium","Gwangju","Male(person)",741103,737689,733997
+"Medium","Gwangju","Female(person)",746572,743061,739334
+"Medium","Gwangju","Sex ratio(per 100 females)",99.3,99.3,99.3
+"Medium","Gwangju","Population increase rate",-0.4,-0.47,-0.5
+"Medium","Gwangju","Population percent distributio(%)",2.9,2.9,2.8
+"Medium","Gwangju","0-14 years old(person)",197713,192064,185735
+"Medium","Gwangju","15-64 years old(person)",1086301,1075892,1064872
+"Medium","Gwangju","65 years old and over(person)",203661,212794,222724
+"Medium","Gwangju","Percent distributio(%): 0-14 years old",13.3,13,12.6
+"Medium","Gwangju","Percent distribution(%): 15-64 years old",73,72.7,72.3
+"Medium","Gwangju","Percent distribution(%): 65 years old and over",13.7,14.4,15.1
+"Medium","Gwangju","Dependency ratio(Total)",36.9,37.6,38.4
+"Medium","Gwangju","Youth support payments",18.2,17.9,17.4
+"Medium","Gwangju","Old child support",18.7,19.8,20.9
+"Medium","Gwangju","Aging index",103,110.8,119.9
+"Medium","Gwangju","Median age",41.9,42.5,43.2
+"Medium","Gwangju","Median age-Male",40.7,41.3,42
+"Medium","Gwangju","Median age-Female",43.1,43.8,44.5
+"Medium","Daejeon","Total population(person)",1500215,1491385,1482642
+"Medium","Daejeon","Male(person)",752488,747868,743267
+"Medium","Daejeon","Female(person)",747727,743517,739375
+"Medium","Daejeon","Sex ratio(per 100 females)",100.6,100.6,100.5
+"Medium","Daejeon","Population increase rate",-0.57,-0.59,-0.59
+"Medium","Daejeon","Population percent distributio(%)",2.9,2.9,2.9
+"Medium","Daejeon","0-14 years old(person)",187639,181321,174674
+"Medium","Daejeon","15-64 years old(person)",1106867,1093017,1079062
+"Medium","Daejeon","65 years old and over(person)",205709,217047,228906
+"Medium","Daejeon","Percent distributio(%): 0-14 years old",12.5,12.2,11.8
+"Medium","Daejeon","Percent distribution(%): 15-64 years old",73.8,73.3,72.8
+"Medium","Daejeon","Percent distribution(%): 65 years old and over",13.7,14.6,15.4
+"Medium","Daejeon","Dependency ratio(Total)",35.5,36.4,37.4
+"Medium","Daejeon","Youth support payments",17,16.6,16.2
+"Medium","Daejeon","Old child support",18.6,19.9,21.2
+"Medium","Daejeon","Aging index",109.6,119.7,131
+"Medium","Daejeon","Median age",41.7,42.3,43
+"Medium","Daejeon","Median age-Male",40.3,40.9,41.6
+"Medium","Daejeon","Median age-Female",43.2,43.8,44.5
+"Medium","Ulsan","Total population(person)",1139703,1132709,1125775
+"Medium","Ulsan","Male(person)",590342,586393,582427
+"Medium","Ulsan","Female(person)",549361,546316,543348
+"Medium","Ulsan","Sex ratio(per 100 females)",107.5,107.3,107.2
+"Medium","Ulsan","Population increase rate",-0.6,-0.62,-0.61
+"Medium","Ulsan","Population percent distributio(%)",2.2,2.2,2.2
+"Medium","Ulsan","0-14 years old(person)",156454,152373,147551
+"Medium","Ulsan","15-64 years old(person)",846293,833720,821316
+"Medium","Ulsan","65 years old and over(person)",136956,146616,156908
+"Medium","Ulsan","Percent distributio(%): 0-14 years old",13.7,13.5,13.1
+"Medium","Ulsan","Percent distribution(%): 15-64 years old",74.3,73.6,73
+"Medium","Ulsan","Percent distribution(%): 65 years old and over",12,12.9,13.9
+"Medium","Ulsan","Dependency ratio(Total)",34.7,35.9,37.1
+"Medium","Ulsan","Youth support payments",18.5,18.3,18
+"Medium","Ulsan","Old child support",16.2,17.6,19.1
+"Medium","Ulsan","Aging index",87.5,96.2,106.3
+"Medium","Ulsan","Median age",42.9,43.6,44.4
+"Medium","Ulsan","Median age-Male",41.5,42.2,42.9
+"Medium","Ulsan","Median age-Female",44.5,45.3,46
+"Medium","Sejong","Total population(person)",348867,365128,380290
+"Medium","Sejong","Male(person)",175431,183535,191102
+"Medium","Sejong","Female(person)",173436,181593,189188
+"Medium","Sejong","Sex ratio(per 100 females)",101.2,101.1,101
+"Medium","Sejong","Population increase rate",5.22,4.56,4.07
+"Medium","Sejong","Population percent distributio(%)",0.7,0.7,0.7
+"Medium","Sejong","0-14 years old(person)",69848,72495,74432
+"Medium","Sejong","15-64 years old(person)",246703,257561,267907
+"Medium","Sejong","65 years old and over(person)",32316,35072,37951
+"Medium","Sejong","Percent distributio(%): 0-14 years old",20,19.9,19.6
+"Medium","Sejong","Percent distribution(%): 15-64 years old",70.7,70.5,70.4
+"Medium","Sejong","Percent distribution(%): 65 years old and over",9.3,9.6,10
+"Medium","Sejong","Dependency ratio(Total)",41.4,41.8,41.9
+"Medium","Sejong","Youth support payments",28.3,28.1,27.8
+"Medium","Sejong","Old child support",13.1,13.6,14.2
+"Medium","Sejong","Aging index",46.3,48.4,51
+"Medium","Sejong","Median age",37.7,38.3,38.7
+"Medium","Sejong","Median age-Male",37.4,37.9,38.4
+"Medium","Sejong","Median age-Female",38,38.5,39.1
+"Medium","Gyeonggi-do","Total population(person)",13405223,13554031,13689333
+"Medium","Gyeonggi-do","Male(person)",6793392,6869092,6936963
+"Medium","Gyeonggi-do","Female(person)",6611831,6684939,6752370
+"Medium","Gyeonggi-do","Sex ratio(per 100 females)",102.7,102.8,102.7
+"Medium","Gyeonggi-do","Population increase rate",1.26,1.1,0.99
+"Medium","Gyeonggi-do","Population percent distributio(%)",25.9,26.2,26.4
+"Medium","Gyeonggi-do","0-14 years old(person)",1798661,1775734,1743935
+"Medium","Gyeonggi-do","15-64 years old(person)",9897594,9955108,9999631
+"Medium","Gyeonggi-do","65 years old and over(person)",1708968,1823189,1945767
+"Medium","Gyeonggi-do","Percent distributio(%): 0-14 years old",13.4,13.1,12.7
+"Medium","Gyeonggi-do","Percent distribution(%): 15-64 years old",73.8,73.4,73
+"Medium","Gyeonggi-do","Percent distribution(%): 65 years old and over",12.7,13.5,14.2
+"Medium","Gyeonggi-do","Dependency ratio(Total)",35.4,36.2,36.9
+"Medium","Gyeonggi-do","Youth support payments",18.2,17.8,17.4
+"Medium","Gyeonggi-do","Old child support",17.3,18.3,19.5
+"Medium","Gyeonggi-do","Aging index",95,102.7,111.6
+"Medium","Gyeonggi-do","Median age",41.9,42.5,43.1
+"Medium","Gyeonggi-do","Median age-Male",40.9,41.5,42.1
+"Medium","Gyeonggi-do","Median age-Female",43,43.6,44.2
+"Medium","Gangwon-do","Total population(person)",1515112,1513263,1511432
+"Medium","Gangwon-do","Male(person)",764926,763685,762463
+"Medium","Gangwon-do","Female(person)",750186,749578,748969
+"Medium","Gangwon-do","Sex ratio(per 100 females)",102,101.9,101.8
+"Medium","Gangwon-do","Population increase rate",-0.1,-0.12,-0.12
+"Medium","Gangwon-do","Population percent distributio(%)",2.9,2.9,2.9
+"Medium","Gangwon-do","0-14 years old(person)",167796,162953,157868
+"Medium","Gangwon-do","15-64 years old(person)",1044863,1033902,1021682
+"Medium","Gangwon-do","65 years old and over(person)",302453,316408,331882
+"Medium","Gangwon-do","Percent distributio(%): 0-14 years old",11.1,10.8,10.4
+"Medium","Gangwon-do","Percent distribution(%): 15-64 years old",69,68.3,67.6
+"Medium","Gangwon-do","Percent distribution(%): 65 years old and over",20,20.9,22
+"Medium","Gangwon-do","Dependency ratio(Total)",45,46.4,47.9
+"Medium","Gangwon-do","Youth support payments",16.1,15.8,15.5
+"Medium","Gangwon-do","Old child support",28.9,30.6,32.5
+"Medium","Gangwon-do","Aging index",180.3,194.2,210.2
+"Medium","Gangwon-do","Median age",47.5,48.3,49.1
+"Medium","Gangwon-do","Median age-Male",45.9,46.6,47.4
+"Medium","Gangwon-do","Median age-Female",49.3,50.1,50.8
+"Medium","Chungcheongbuk-do","Total population(person)",1631549,1636464,1640894
+"Medium","Chungcheongbuk-do","Male(person)",833435,836905,839986
+"Medium","Chungcheongbuk-do","Female(person)",798114,799559,800908
+"Medium","Chungcheongbuk-do","Sex ratio(per 100 females)",104.4,104.7,104.9
+"Medium","Chungcheongbuk-do","Population increase rate",0.36,0.3,0.27
+"Medium","Chungcheongbuk-do","Population percent distributio(%)",3.2,3.2,3.2
+"Medium","Chungcheongbuk-do","0-14 years old(person)",198546,194867,190505
+"Medium","Chungcheongbuk-do","15-64 years old(person)",1156228,1151191,1144896
+"Medium","Chungcheongbuk-do","65 years old and over(person)",276775,290406,305493
+"Medium","Chungcheongbuk-do","Percent distributio(%): 0-14 years old",12.2,11.9,11.6
+"Medium","Chungcheongbuk-do","Percent distribution(%): 15-64 years old",70.9,70.3,69.8
+"Medium","Chungcheongbuk-do","Percent distribution(%): 65 years old and over",17,17.7,18.6
+"Medium","Chungcheongbuk-do","Dependency ratio(Total)",41.1,42.2,43.3
+"Medium","Chungcheongbuk-do","Youth support payments",17.2,16.9,16.6
+"Medium","Chungcheongbuk-do","Old child support",23.9,25.2,26.7
+"Medium","Chungcheongbuk-do","Aging index",139.4,149,160.4
+"Medium","Chungcheongbuk-do","Median age",44.6,45.3,45.9
+"Medium","Chungcheongbuk-do","Median age-Male",42.8,43.4,44.1
+"Medium","Chungcheongbuk-do","Median age-Female",46.4,47.1,47.8
+"Medium","Chungcheongnam-do","Total population(person)",2204431,2219256,2232940
+"Medium","Chungcheongnam-do","Male(person)",1134802,1143675,1151823
+"Medium","Chungcheongnam-do","Female(person)",1069629,1075581,1081117
+"Medium","Chungcheongnam-do","Sex ratio(per 100 females)",106.1,106.3,106.5
+"Medium","Chungcheongnam-do","Population increase rate",0.76,0.67,0.61
+"Medium","Chungcheongnam-do","Population percent distributio(%)",4.3,4.3,4.3
+"Medium","Chungcheongnam-do","0-14 years old(person)",281795,278331,273740
+"Medium","Chungcheongnam-do","15-64 years old(person)",1533332,1534736,1536087
+"Medium","Chungcheongnam-do","65 years old and over(person)",389304,406189,423113
+"Medium","Chungcheongnam-do","Percent distributio(%): 0-14 years old",12.8,12.5,12.3
+"Medium","Chungcheongnam-do","Percent distribution(%): 15-64 years old",69.6,69.2,68.8
+"Medium","Chungcheongnam-do","Percent distribution(%): 65 years old and over",17.7,18.3,18.9
+"Medium","Chungcheongnam-do","Dependency ratio(Total)",43.8,44.6,45.4
+"Medium","Chungcheongnam-do","Youth support payments",18.4,18.1,17.8
+"Medium","Chungcheongnam-do","Old child support",25.4,26.5,27.5
+"Medium","Chungcheongnam-do","Aging index",138.2,145.9,154.6
+"Medium","Chungcheongnam-do","Median age",43.8,44.4,45
+"Medium","Chungcheongnam-do","Median age-Male",42.2,42.8,43.4
+"Medium","Chungcheongnam-do","Median age-Female",45.6,46.2,46.8
+"Medium","Jeollabuk-do","Total population(person)",1792292,1780930,1769649
+"Medium","Jeollabuk-do","Male(person)",895200,889609,884003
+"Medium","Jeollabuk-do","Female(person)",897092,891321,885646
+"Medium","Jeollabuk-do","Sex ratio(per 100 females)",99.8,99.8,99.8
+"Medium","Jeollabuk-do","Population increase rate",-0.61,-0.64,-0.64
+"Medium","Jeollabuk-do","Population percent distributio(%)",3.5,3.4,3.4
+"Medium","Jeollabuk-do","0-14 years old(person)",211825,205537,198551
+"Medium","Jeollabuk-do","15-64 years old(person)",1211297,1194309,1177668
+"Medium","Jeollabuk-do","65 years old and over(person)",369170,381084,393430
+"Medium","Jeollabuk-do","Percent distributio(%): 0-14 years old",11.8,11.5,11.2
+"Medium","Jeollabuk-do","Percent distribution(%): 15-64 years old",67.6,67.1,66.5
+"Medium","Jeollabuk-do","Percent distribution(%): 65 years old and over",20.6,21.4,22.2
+"Medium","Jeollabuk-do","Dependency ratio(Total)",48,49.1,50.3
+"Medium","Jeollabuk-do","Youth support payments",17.5,17.2,16.9
+"Medium","Jeollabuk-do","Old child support",30.5,31.9,33.4
+"Medium","Jeollabuk-do","Aging index",174.3,185.4,198.2
+"Medium","Jeollabuk-do","Median age",46.8,47.6,48.3
+"Medium","Jeollabuk-do","Median age-Male",45.1,45.8,46.6
+"Medium","Jeollabuk-do","Median age-Female",48.5,49.2,50
+"Medium","Jeollanam-do","Total population(person)",1764193,1755301,1746606
+"Medium","Jeollanam-do","Male(person)",888977,885276,881571
+"Medium","Jeollanam-do","Female(person)",875216,870025,865035
+"Medium","Jeollanam-do","Sex ratio(per 100 females)",101.6,101.8,101.9
+"Medium","Jeollanam-do","Population increase rate",-0.49,-0.51,-0.5
+"Medium","Jeollanam-do","Population percent distributio(%)",3.4,3.4,3.4
+"Medium","Jeollanam-do","0-14 years old(person)",207807,201957,195401
+"Medium","Jeollanam-do","15-64 years old(person)",1148843,1136253,1122970
+"Medium","Jeollanam-do","65 years old and over(person)",407543,417091,428235
+"Medium","Jeollanam-do","Percent distributio(%): 0-14 years old",11.8,11.5,11.2
+"Medium","Jeollanam-do","Percent distribution(%): 15-64 years old",65.1,64.7,64.3
+"Medium","Jeollanam-do","Percent distribution(%): 65 years old and over",23.1,23.8,24.5
+"Medium","Jeollanam-do","Dependency ratio(Total)",53.6,54.5,55.5
+"Medium","Jeollanam-do","Youth support payments",18.1,17.8,17.4
+"Medium","Jeollanam-do","Old child support",35.5,36.7,38.1
+"Medium","Jeollanam-do","Aging index",196.1,206.5,219.2
+"Medium","Jeollanam-do","Median age",48.9,49.6,50.3
+"Medium","Jeollanam-do","Median age-Male",46.9,47.6,48.4
+"Medium","Jeollanam-do","Median age-Female",51,51.7,52.3
+"Medium","Gyeongsangbuk-do","Total population(person)",2655464,2645404,2635101
+"Medium","Gyeongsangbuk-do","Male(person)",1347218,1343248,1338964
+"Medium","Gyeongsangbuk-do","Female(person)",1308246,1302156,1296137
+"Medium","Gyeongsangbuk-do","Sex ratio(per 100 females)",103,103.2,103.3
+"Medium","Gyeongsangbuk-do","Population increase rate",-0.35,-0.38,-0.39
+"Medium","Gyeongsangbuk-do","Population percent distributio(%)",5.1,5.1,5.1
+"Medium","Gyeongsangbuk-do","0-14 years old(person)",301028,292691,283547
+"Medium","Gyeongsangbuk-do","15-64 years old(person)",1805723,1782640,1758357
+"Medium","Gyeongsangbuk-do","65 years old and over(person)",548713,570073,593197
+"Medium","Gyeongsangbuk-do","Percent distributio(%): 0-14 years old",11.3,11.1,10.8
+"Medium","Gyeongsangbuk-do","Percent distribution(%): 15-64 years old",68,67.4,66.7
+"Medium","Gyeongsangbuk-do","Percent distribution(%): 65 years old and over",20.7,21.5,22.5
+"Medium","Gyeongsangbuk-do","Dependency ratio(Total)",47.1,48.4,49.9
+"Medium","Gyeongsangbuk-do","Youth support payments",16.7,16.4,16.1
+"Medium","Gyeongsangbuk-do","Old child support",30.4,32,33.7
+"Medium","Gyeongsangbuk-do","Aging index",182.3,194.8,209.2
+"Medium","Gyeongsangbuk-do","Median age",47.5,48.3,49
+"Medium","Gyeongsangbuk-do","Median age-Male",45.3,46.1,46.8
+"Medium","Gyeongsangbuk-do","Median age-Female",49.7,50.5,51.2
+"Medium","Gyeongsangnam-do","Total population(person)",3350151,3348591,3345692
+"Medium","Gyeongsangnam-do","Male(person)",1707444,1706896,1705489
+"Medium","Gyeongsangnam-do","Female(person)",1642707,1641695,1640203
+"Medium","Gyeongsangnam-do","Sex ratio(per 100 females)",103.9,104,104
+"Medium","Gyeongsangnam-do","Population increase rate",0.01,-0.05,-0.09
+"Medium","Gyeongsangnam-do","Population percent distributio(%)",6.5,6.5,6.5
+"Medium","Gyeongsangnam-do","0-14 years old(person)",436419,426659,414877
+"Medium","Gyeongsangnam-do","15-64 years old(person)",2360200,2340289,2318983
+"Medium","Gyeongsangnam-do","65 years old and over(person)",553532,581643,611832
+"Medium","Gyeongsangnam-do","Percent distributio(%): 0-14 years old",13,12.7,12.4
+"Medium","Gyeongsangnam-do","Percent distribution(%): 15-64 years old",70.5,69.9,69.3
+"Medium","Gyeongsangnam-do","Percent distribution(%): 65 years old and over",16.5,17.4,18.3
+"Medium","Gyeongsangnam-do","Dependency ratio(Total)",41.9,43.1,44.3
+"Medium","Gyeongsangnam-do","Youth support payments",18.5,18.2,17.9
+"Medium","Gyeongsangnam-do","Old child support",23.5,24.9,26.4
+"Medium","Gyeongsangnam-do","Aging index",126.8,136.3,147.5
+"Medium","Gyeongsangnam-do","Median age",45,45.7,46.4
+"Medium","Gyeongsangnam-do","Median age-Male",43.1,43.8,44.5
+"Medium","Gyeongsangnam-do","Median age-Female",46.9,47.7,48.4
+"Medium","Jeju","Total population(person)",670207,679882,688754
+"Medium","Jeju","Male(person)",338707,343779,348385
+"Medium","Jeju","Female(person)",331500,336103,340369
+"Medium","Jeju","Sex ratio(per 100 females)",102.2,102.3,102.4
+"Medium","Jeju","Population increase rate",1.6,1.43,1.3
+"Medium","Jeju","Population percent distributio(%)",1.3,1.3,1.3
+"Medium","Jeju","0-14 years old(person)",96479,95922,94802
+"Medium","Jeju","15-64 years old(person)",472575,477504,482057
+"Medium","Jeju","65 years old and over(person)",101153,106456,111895
+"Medium","Jeju","Percent distributio(%): 0-14 years old",14.4,14.1,13.8
+"Medium","Jeju","Percent distribution(%): 15-64 years old",70.5,70.2,70
+"Medium","Jeju","Percent distribution(%): 65 years old and over",15.1,15.7,16.2
+"Medium","Jeju","Dependency ratio(Total)",41.8,42.4,42.9
+"Medium","Jeju","Youth support payments",20.4,20.1,19.7
+"Medium","Jeju","Old child support",21.4,22.3,23.2
+"Medium","Jeju","Aging index",104.8,111,118
+"Medium","Jeju","Median age",43.1,43.6,44.2
+"Medium","Jeju","Median age-Male",42,42.5,43.1
+"Medium","Jeju","Median age-Female",44.3,44.8,45.3
